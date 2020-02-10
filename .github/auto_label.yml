@@ -1,4 +1,4 @@
-labels: [fix, chore]
+labels: [fix, chore, enhancement]
 labelMapping:
   feat: [feature]
   refactor: [chore, refactor]
