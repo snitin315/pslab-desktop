@@ -1,6 +1,6 @@
 labels: [fix, chore, enhancement]
 labelMapping:
-  feat: [feature]
+  feat: [enhancement]
   refactor: [chore, refactor]
   chore(refactor): [chore, refactor]
   chore(deps): [dependencies]
